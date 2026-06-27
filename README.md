@@ -17,5 +17,7 @@
 
 ---
 
-## ✍️ ผู้จัดทำ (Author)
-* **Nuttaphat** - [@flame123-np](https://github.com/flame123-np)
+## 👥 สมาชิกผู้พัฒนา (Developers)
+* **Nuttaphat** ([@flame123-np](https://github.com/flame123-np))
+
+*(หมายเหตุ: โปรเจกต์นี้เป็นส่วนหนึ่งของรายวิชาInformation Assurance and Security(02739352)ในภาคการศึกษา 2568 กลุ่มเรียน 820)*
